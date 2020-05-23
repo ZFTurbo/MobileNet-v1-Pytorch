@@ -15,7 +15,7 @@ You can obtain pretrained imagenet weights using code in [convert_weights_keras_
 ## No top
 
 |  | 128px | 160px | 192px | 224px |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | :---: | :---: | :---: | :---: |
 | alpha = 0.25  | DL | DL | DL | DL |
 | alpha = 0.50  | DL | DL | DL | DL |
 | alpha = 0.75  | DL | DL | DL | DL |
@@ -24,7 +24,7 @@ You can obtain pretrained imagenet weights using code in [convert_weights_keras_
 ## With top (1000 classes, imagenet)
 
 |  | 128px | 160px | 192px | 224px |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | :---: | :---: | :---: | :---: |
 | alpha = 0.25  | DL | DL | DL | DL |
 | alpha = 0.50  | DL | DL | DL | DL |
 | alpha = 0.75  | DL | DL | DL | DL |
